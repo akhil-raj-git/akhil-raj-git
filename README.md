@@ -1,8 +1,7 @@
 ## 💫 About Me:
 Highly skilled software development professional bringing enormous talents for software design, development and integration. Offering advanced knowledge of in-demand programming languages and frameworks.
 
-🔭 I’m currently working on a DS & Algo Notion Notes for Coding Interview Prep
-🌱 I’m currently learning native iOS Development with Swift
+🔭 I’m currently working on a DS & Algo Notion Notes for Coding Interview Prep<br>🌱 I’m currently learning native iOS Development with Swift
 
 
 ## 🌐 Socials:
